@@ -28,8 +28,6 @@ Dado um valor inteiro em reais, decompô-lo no número mínimo de notas e moedas
 1 nota(s)/moeda(s) de 100
 1 nota(s)/moeda(s) de 50
 1 nota(s)/moeda(s) de 20
-0 nota(s)/moeda(s) de 10
-0 nota(s)/moeda(s) de 5
 1 nota(s)/moeda(s) de 2
 1 nota(s)/moeda(s) de 1
 ```

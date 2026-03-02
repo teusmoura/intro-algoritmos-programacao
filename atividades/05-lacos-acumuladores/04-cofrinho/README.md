@@ -4,7 +4,7 @@ Tema: Laços e Acumuladores / Dificuldade: Médio
 
 ## Enunciado
 
-Leia uma meta de economia e, em seguida, valores de moedas (0.05, 0.10, 0.25, 0.50 ou 1.00) até que o total acumulado atinja ou supere a meta. Imprima o total acumulado.
+Leia uma meta de economia e, em seguida, valores de moedas (0.05, 0.10, 0.25, 0.50 ou 1.00) até que o total acumulado atinja ou supere a meta. Imprima o total acumulado. Pode-se assumir que todas as entradas de moedas serão valores válidos.
 
 ## Entradas
 
