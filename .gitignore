@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+.env
+*.pyc
+
+# C / C++
+*.o
+*.out
+*.a
+*.so
+*.exe
+a.out
+solucao
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Ferramentas de análise (geradas automaticamente)
+_codeql_detected_source_root
