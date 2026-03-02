@@ -48,7 +48,7 @@ b = -5
 
 ## Restrições
 
-- Use uma variável auxiliar para a troca (não use a troca simultânea do Python em produção).
+- Use uma variável auxiliar para a troca (não use a troca simultânea do Python neste exercício).
 - Valores podem ser negativos.
 
 ## Dicas

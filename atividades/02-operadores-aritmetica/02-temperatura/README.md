@@ -13,8 +13,8 @@ Leia uma temperatura em Celsius e converta para Fahrenheit. Em seguida, leia uma
 
 ## Saídas
 
-- Linha 1: `X.1f C = Y.1f F`
-- Linha 2: `X.1f F = Y.1f C`
+- Linha 1: `X.X C = Y.Y F`
+- Linha 2: `X.X F = Y.Y C`
 
 ## Exemplos
 
